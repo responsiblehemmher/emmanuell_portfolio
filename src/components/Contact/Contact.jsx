@@ -40,7 +40,7 @@ const Contact = () => {
             <div className="contact__card">
               <AiOutlineMail className="contact__card-icon" />
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">user@email.com</span>
+              <span className="contact__card-data">emmanueledunjobi@email.com</span>
               <a
                 href="mailto:recipient_email@edunjobiemmanuel@gmail.com"
                 className="contact__button"
